@@ -55,18 +55,9 @@ Simultaneously Run Node.js Server :
 node server.js
 ```
 
-## Contributing
-
-This is an open source project, and contributions of any kind are welcome and appreciated. Open issues, bugs, and feature requests are all listed on the [issues](https://github.com/Bhanu1776/Freelansters/issues) tab and labeled accordingly. Feel free to open bug tickets and make feature requests.
-
-## Contributors 💣
-
-<a href="">
-<!--   <img  src="https://contrib.rocks/image?repo=Bhanu1776/Freelansters" /> -->
-<!-- </a> -->
-
-## Support Me 🫂
 
 
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+
+
+
