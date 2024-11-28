@@ -26,7 +26,7 @@ If you have any issues, please let me know in the issues section or directly to 
 ## Installation 💾
 
 ```bash
-git clone https://github.com/Bhanu1776/Freelansters.git
+git clone https://github.com/blal41/freelance-platform
 ```
 
 Create config.env file in `backend` folder and Fill your `.env` variables:
