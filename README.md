@@ -8,9 +8,7 @@
 - Express
 - MongoDB
 - Styled Components
-- MUI
 - JWT Auth
-- Twilio
 - And much more 🎒
 
 ## Screenshots 📸
@@ -63,17 +61,12 @@ This is an open source project, and contributions of any kind are welcome and ap
 
 ## Contributors 💣
 
-<a href="https://github.com/Bhanu1776/Freelansters/graphs/contributors">
-  <img  src="https://contrib.rocks/image?repo=Bhanu1776/Freelansters" />
-</a>
+<a href="">
+<!--   <img  src="https://contrib.rocks/image?repo=Bhanu1776/Freelansters" /> -->
+<!-- </a> -->
 
 ## Support Me 🫂
 
-<a href="https://www.buymeacoffee.com/Bhanu1776"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
-<hr>
-
-© 2022 Bhanu Sunka and contributors\
-This project is licensed under the [**MIT license**](https://github.com/Bhanu1776/Freelancers-Hub/blob/master/LICENSE).
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
